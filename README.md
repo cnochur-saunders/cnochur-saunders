@@ -2,7 +2,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,github,kali,linux,obsidian,py,ubuntu,vscodelinkedin&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,github,kali,linux,obsidian,py,ubuntu,vscode,linkedin&perline=10)](https://skillicons.dev)
 
 - 👋 Hi, I’m Cnochur
 - 👀 I’m interested in cyber security and Python
@@ -13,5 +13,5 @@
 
 #### Sources:
 
-🎱 Icons: https://github.com/tandpfun
+🎱 Icons: https://github.com/tandpfun  
 🎱 Banner: https://github.com/leviarista/github-profile-header-generator
