@@ -2,7 +2,9 @@
 - 👀 I’m interested in cyber security and Python
 - 🌱 I’m currently learning Python on Udemy
 - 📫 How to reach me:
-    - LinkedIn: www.linkedin.com/in/cnochursaunders
+     <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+     </a>
     - email: cnochurpersonal@proton.me
 - ⚡ Fun fact: My name is spelled wrong (pronounced Conor!)
 
