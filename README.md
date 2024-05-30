@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and Python
 - 🌱 I’m currently learning Python on Udemy
 - 📫 How to reach me:
-    - LinkedIn:
+    - LinkedIn: www.linkedin.com/in/cnochursaunders
     - email: cnochurpersonal@proton.me
 - ⚡ Fun fact: My name is spelled wrong (pronounced Conor!)
 
